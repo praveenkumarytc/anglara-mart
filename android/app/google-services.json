@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "648546675828",
+    "project_id": "anglara-mart",
+    "storage_bucket": "anglara-mart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648546675828:android:acab912708631e0c37f521",
+        "android_client_info": {
+          "package_name": "com.anglara.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648546675828-5ncol27j71sfh5vf9i7nm3shbq4qemb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm_FH45JZClnzuOevPLs5DjYVHvTu8NpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648546675828-5ncol27j71sfh5vf9i7nm3shbq4qemb2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "648546675828-3jcgfumrjkie3hnvvsd3ehi1ttvo8dgh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anglara.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
