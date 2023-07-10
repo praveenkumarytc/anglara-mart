@@ -9,7 +9,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../../data/model/cart_product_model.dart';
 import '../../logic/cubit/cart cubit/cart_cubit.dart';
-import '../../styles.dart';
+import '../../utils/styles.dart';
 import '../../utils/dimensions.dart';
 
 class ProductDetailsScreen extends StatelessWidget {

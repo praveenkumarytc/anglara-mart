@@ -1,6 +1,6 @@
 import 'package:ecommerce/custom%20widgets/custom_appbar.dart';
 import 'package:ecommerce/custom%20widgets/custom_snackbar.dart';
-import 'package:ecommerce/styles.dart';
+import 'package:ecommerce/utils/styles.dart';
 import 'package:ecommerce/utils/asset_images.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

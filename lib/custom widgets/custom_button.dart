@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 
-import '../styles.dart';
+import '../utils/styles.dart';
 import '../utils/color_resources.dart';
 import '../utils/dimensions.dart';
 

@@ -9,7 +9,7 @@ import 'package:ecommerce/ui/product/components/product_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import '../../styles.dart';
+import '../../utils/styles.dart';
 import '../../utils/dimensions.dart';
 
 class ProductListScreen extends StatefulWidget {

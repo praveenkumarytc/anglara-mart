@@ -6,7 +6,7 @@ import 'package:ecommerce/logic/cubit/cart%20cubit/cart_state.dart';
 import 'package:ecommerce/utils/asset_images.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import '../styles.dart';
+import '../utils/styles.dart';
 import '../ui/cart/cart_screen.dart';
 import '../utils/dimensions.dart';
 
